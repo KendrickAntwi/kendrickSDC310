@@ -58,11 +58,11 @@ The application was developed over 5 weeks, progressing from a basic HTML/PHP st
 
 ## Language and Technologies Used
 
-- **PHP 7.4** — server-side logic and database interaction
-- **MySQL (MariaDB 10.4)** — relational database for products and users
-- **HTML/CSS** — front-end structure and styling
-- **XAMPP** — local development environment
-- **PDO** — secure database connection layer
+- **PHP 7.4** - server-side logic and database interaction
+- **MySQL** - relational database for products and users
+- **HTML/CSS** - front-end structure and styling
+- **XAMPP** - local development environment
+- **PDO** - secure database connection layer
 
 ## Development Process Used
 
@@ -78,6 +78,6 @@ This project gave me hands-on experience building a real-world PHP web applicati
 
 ## Link to Project
 
-[Antwi Tech Store – GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+[Antwi Tech Store – GitHub Repository](https://github.com/KendrickAntwi/kendrickSDC310/)
 
-*Student: Kendrick Antwi | Course: SDC310L | Completed: May 2026*
+*Student: Kendrick Antwi*
